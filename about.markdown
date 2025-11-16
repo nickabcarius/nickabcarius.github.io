@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+Website link: [nickabcarius.github.io](https://nickabcarius.github.io/)
+
+Website Github Repo: [github.com/nickabcarius/nickabcarius.github.io](https://github.com/nickabcarius/nickabcarius.github.io)
+
 This is the Jekyll Cayman theme.
 
 You can find the source code for Jekyll at GitHub:
